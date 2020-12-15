@@ -13,6 +13,16 @@ https://github.com/Jordiortizt/bonatarda.git._
 
 _El primer paso después de haber realizado la copia del repositorio, es ejecutar el programa i seleccionar una impresora para obtener los drivers que se descargaran automáticamente. También puedes también puedes descargar el último sistema operativo disponible para el modelo de impresora que selecciones._
 
+### Ejemplo
+
+<table>
+    <tr>
+        <td><img src="https://www.codinas.cat/wp-content/uploads/2020/04/cua_impresores_olivettti.png" width="200"/></td>
+        <td><img src="https://www.codinas.cat/wp-content/uploads/2020/04/cua_mfp_olivettti.png" width="200"/></td>
+        <td><img src="https://www.codinas.cat/wp-content/uploads/2020/04/cua_registradores_olivettti.png" width="200"/></td>
+    </tr>
+</table>
+
 ## Autores ✒️
 
 * **Jordi Ortiz** - *Trabajo Inicial*
