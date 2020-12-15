@@ -2,6 +2,8 @@
 
 _Este proyecto consiste en el sistema de impresoras de codinas._
 
+![Alt text](https://wordpress.codinas.cat/wp-content/uploads/2020/12/cropped-codinas_logotip_horitzontal-200x46.png)
+
 ## Comenzando 🚀
 
 _Para obtener una copia del proyecto, tienes que copiar el repositorio mediante este link:
