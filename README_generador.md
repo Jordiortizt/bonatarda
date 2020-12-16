@@ -1,8 +1,16 @@
 # Sistema de Codinas
 
-Este proyecto consiste en el sistema de impresoras de codinas.
+## Introduction
 
+Este proyecto consiste en el sistema de impresoras de codinas.
 ![Alt text](https://wordpress.codinas.cat/wp-content/uploads/2020/12/cropped-codinas_logotip_horitzontal-200x46.png)
+
+
+## Code Samples
+
+
+
+## Installation
 
 ## Comenzando
 
